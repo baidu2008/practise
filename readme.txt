@@ -6,4 +6,4 @@ Creating a new branch is quick & simple.
 Creating a new msg on branch fixed
 Creating a new test file
 heheyixiaobaimeisheng
-test fastforword
+test fastforword hahahaha
